@@ -18,3 +18,7 @@ This application allows you to visualize and interact with JSON data in multiple
 - **Delete**: Removes the selected file from local storage.  
 - **File Select**: Opens the selected file for review and editing.  
 - **Edit Node Value**: Clicking a value inside a node lets you edit the data directly.  
+
+## Layout:
+  - The layout may shift slightly when you change data that is significantly different from the previous one.
+  - **An easy fix is to reload the page and then select the file you want.**
